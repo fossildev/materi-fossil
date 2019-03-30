@@ -1,0 +1,15 @@
+Versi	Codename	Codebase	LTS
+5	Elyssa		Ubuntu Hardy	Obsolete 2011.
+6	Felicia		Ubuntu Intrepid	Obsolete 2010.
+7	Gloria		Ubuntu Jaunty	Obsolete 2010.
+8	Helena		Ubuntu Karmic	Obsolete 2011.
+9	Isadora		Ubuntu Lucid	Obsolete 2013.
+10	Julia		Ubuntu Maverick	Obsolete 2012.
+11	Katya		Ubuntu Natty	Obsolete 2012.
+12	Lisa		Ubuntu Oneiric	Obsolete 2013.
+13	Maya		Ubuntu Precise	LTS April 2017.
+14	Nadia		Ubuntu Quantal	Obsolete 2014.
+15	Olivia		Ubuntu Raring	Obsolete 2014.
+16	Petra		Ubuntu Saucy	Obsolete 2014.
+17	Qiana		Ubuntu Trusty	LTS April 2019.
+17.1	Rebecca		Ubuntu Trusty	LTS April 2019.
